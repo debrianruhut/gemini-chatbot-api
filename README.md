@@ -6,6 +6,7 @@ Aplikasi ini menyediakan antarmuka obrolan yang bersih dan interaktif, memungkin
 <div align="center">
     <img src="gemini-ai-chatbot-demo.png" alt="Logo" width="55%">
 </div>
+
 ## **Daftar Isi**
 
 * <a href="#fitur-utama">Fitur Utama</a>
