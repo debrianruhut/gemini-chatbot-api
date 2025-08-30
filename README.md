@@ -3,7 +3,9 @@
 Aplikasi web chatbot sederhana yang ditenagai oleh Google Gemini API, dibangun menggunakan Node.js/Express untuk backend dan Vanilla JavaScript untuk frontend.
 
 Aplikasi ini menyediakan antarmuka obrolan yang bersih dan interaktif, memungkinkan pengguna untuk mengajukan pertanyaan dan menerima respons cerdas yang dihasilkan oleh model AI canggih dari Google.
-
+<div align="center">
+    <img src="gemini-ai-chatbot-demo.png" alt="Logo" width="55%">
+</div>
 ## **Daftar Isi**
 
 * <a href="#fitur-utama">Fitur Utama</a>
