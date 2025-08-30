@@ -74,14 +74,10 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 
    * Jalankan server backend:  
      ```
-     node server.js
+     node index.js
      ```
 
 Server sekarang akan berjalan di http://localhost:3000 (atau port yang Anda konfigurasikan).
-
-3. **Jalankan Frontend**  
-   * Buka file index.html yang berada di direktori frontend (atau root) langsung di browser web pilihan Anda.  
-   * Mulai mengobrol dengan AI\!
 
 ## **Spesifikasi API**
 
