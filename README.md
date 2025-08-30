@@ -6,11 +6,11 @@ Aplikasi ini menyediakan antarmuka obrolan yang bersih dan interaktif, memungkin
 
 ## **Daftar Isi**
 
-* [Fitur Utama](https://www.google.com/search?q=%23fitur-utama)  
-* [Tumpukan Teknologi](https://www.google.com/search?q=%23tumpukan-teknologi)  
-* [Arsitektur](https://www.google.com/search?q=%23arsitektur)  
-* [Instalasi dan Penggunaan](https://www.google.com/search?q=%23instalasi-dan-penggunaan)  
-* [Spesifikasi API](https://www.google.com/search?q=%23spesifikasi-api)
+* <a href="#fitur-utama">Fitur Utama</a>
+* <a href="#teknologi">Teknologi</a> 
+* <a href="#arsitektur">Arsitektur</a>  
+* <a href="#instalasi-dan-penggunaan">Instalasi dan Penggunaan</a> 
+* <a href="#spesifikasi-api">Spesifikasi API</a>   
 
 ## **Fitur Utama**
 
