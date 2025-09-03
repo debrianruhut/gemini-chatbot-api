@@ -1,3 +1,20 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 # **AI Chatbot dengan Google Gemini API**
 
 Aplikasi web chatbot sederhana yang ditenagai oleh Google Gemini API, dibangun menggunakan Node.js/Express untuk backend dan Vanilla JavaScript untuk frontend.
@@ -104,3 +121,18 @@ Endpoint ini menerima pesan dari pengguna, meneruskannya ke Gemini, dan mengemba
   "result": "Tentu, sejarah Indonesia adalah topik yang sangat luas dan menarik\! Dimulai dari..."  
 }  
 ```
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/debrianruhut/gemini-chatbot-api.svg?style=for-the-badge
+[contributors-url]: https://github.com/debrianruhut/gemini-chatbot-api/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/debrianruhut/gemini-chatbot-api.svg?style=for-the-badge
+[forks-url]: https://github.com/debrianruhut/gemini-chatbot-api/network/members
+[stars-shield]: https://img.shields.io/github/stars/debrianruhut/gemini-chatbot-api.svg?style=for-the-badge
+[stars-url]: https://github.com/debrianruhut/gemini-chatbot-api/stargazers
+[issues-shield]: https://img.shields.io/github/issues/debrianruhut/gemini-chatbot-api.svg?style=for-the-badge
+[issues-url]: https://github.com/debrianruhut/gemini-chatbot-api/issues
+[license-shield]: https://img.shields.io/github/license/debrianruhut/gemini-chatbot-api.svg?style=for-the-badge
+[license-url]: https://github.com/debrianruhut/gemini-chatbot-api/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/debrian-ruhut-saragih
