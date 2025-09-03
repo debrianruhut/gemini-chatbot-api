@@ -133,6 +133,6 @@ Endpoint ini menerima pesan dari pengguna, meneruskannya ke Gemini, dan mengemba
 [issues-shield]: https://img.shields.io/github/issues/debrianruhut/gemini-chatbot-api.svg?style=for-the-badge
 [issues-url]: https://github.com/debrianruhut/gemini-chatbot-api/issues
 [license-shield]: https://img.shields.io/github/license/debrianruhut/gemini-chatbot-api.svg?style=for-the-badge
-[license-url]: https://github.com/debrianruhut/gemini-chatbot-api/blob/master/LICENSE.txt
+[license-url]: https://github.com/debrianruhut/gemini-chatbot-api/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/debrian-ruhut-saragih
