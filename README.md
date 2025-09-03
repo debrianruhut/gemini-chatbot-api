@@ -121,6 +121,9 @@ Endpoint ini menerima pesan dari pengguna, meneruskannya ke Gemini, dan mengemba
   "result": "Tentu, sejarah Indonesia adalah topik yang sangat luas dan menarik\! Dimulai dari..."  
 }  
 ```
+<!-- LICENSE -->
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
